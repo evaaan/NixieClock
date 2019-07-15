@@ -2,7 +2,7 @@
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
-OutputPath=
+OutputPath=Project Outputs for Nixie_Backplane
 LogFolderPath=
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -192,6 +192,22 @@ GenerateClassCluster=0
 
 [Document11]
 DocumentPath=C:\Users\Public\Documents\Altium\AD 10\Library\ST\Imported STM32F4DISCOVERY.lia\STM32F4DISCOVERY.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document12]
+DocumentPath=OutputFiles_Nixie.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

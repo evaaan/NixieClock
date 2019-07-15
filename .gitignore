@@ -2,6 +2,10 @@ Keil/obj/
 
 Keil/lst/
 
+Altium/History/
+Altium/Project Logs for Nixie_Backplane/
+Altium/Nixie_Backplane.Annotation
+Altium/Nixie_Backplane.PrjPCBStructure
 Keil/DebugConfig/
 
 *.uvguix.*
