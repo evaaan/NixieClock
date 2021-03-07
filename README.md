@@ -2,10 +2,10 @@
 
 Nixie Tube Clock built from an STM32F4 dev board, custom PCB backplane, and an Aspen box.
 
-![Overview1](Images/Image03.png "Overview1")
+![Overview1](Images/image03.jpg "Overview1")
 
-![Overview2](Images/Image04.png "Overview2")
+![Overview2](Images/image04.jpg "Overview2")
 
-![Internals](Images/Image02.png "Internals")
+![Internals](Images/image02.jpg "Internals")
 
-![Wood Shop](Images/Image01.png "Wood Shop")
+![Wood Shop](Images/image01.jpg "Wood Shop")
